@@ -21,7 +21,7 @@ As CEO of Alpaon LLC, I spearhead initiatives in industrial IoT, driving innovat
 ![mqtt](https://img.shields.io/badge/-MQTT-660066?logo=mqtt&logoColor=white&style=flat-square)
 ![swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=white&style=flat-square)
 
-#### Data Center Hardwares that I have deep experience with:
+#### Professional Experience with Data Center Hardware:
 ![dell](https://img.shields.io/badge/-Dell-007DB8?logo=dell&logoColor=white&style=flat-square)
 ![supermicro](https://img.shields.io/badge/-Supermicro-151F6D?logo=supermicro&logoColor=white&style=flat-square)
 ![cisco](https://img.shields.io/badge/-Cisco-1BA0D7?logo=cisco&logoColor=white&style=flat-square)
