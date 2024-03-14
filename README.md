@@ -70,7 +70,8 @@ As CEO of Alpaon LLC, I spearhead initiatives in industrial IoT, driving innovat
 ![xcode](https://img.shields.io/badge/-Xcode-147EFB?logo=xcode&logoColor=white&style=flat-square)
 
 ### 🌐 Social Links:
-- [LinkedIn](https://www.linkedin.com/in/seongyun-ku-5bbaab140)
+[![linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/seongyun-ku-5bbaab140)
+[![googlescholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?logo=googlescholar&logoColor=white&style=flat-square)](https://scholar.google.com/citations?hl=en&user=Ckdp368AAAAJ)
 
 ### 💼 Experience:
 - **Chief Executive Officer** at Alpaon LLC (Aug 2021 - Present)
@@ -78,7 +79,7 @@ As CEO of Alpaon LLC, I spearhead initiatives in industrial IoT, driving innovat
 - **Chief Executive Officer** at RusQ Co. (Dec 2014 - Present)
 
 ### 🎓 Education:
-- **Stony Brook University** (2021 - 2025)
+- **Stony Brook University** (2021 - )
   - Major: Technological Systems Management, Computer Science
 - **EF Academy** (2018 - 2021)
   - New York Campus
