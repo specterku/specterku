@@ -24,6 +24,7 @@ As CEO of Alpaon LLC, I spearhead initiatives in industrial IoT, driving innovat
 
 #### Technical Skills:
 ![kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
+![docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![containerd](https://img.shields.io/badge/-containerd-575757?logo=containerd&logoColor=white&style=flat-square)
 ![argo](https://img.shields.io/badge/-Argo-EF7B4D?logo=argo&logoColor=white&style=flat-square)
 ![portainer](https://img.shields.io/badge/-Portainer-13BEF9?logo=portainer&logoColor=white&style=flat-square)
@@ -32,23 +33,31 @@ As CEO of Alpaon LLC, I spearhead initiatives in industrial IoT, driving innovat
 ![fluentbit](https://img.shields.io/badge/-Fluent%20Bit-49BDA5?logo=fluentbit&logoColor=white&style=flat-square)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat-square)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white&style=flat-square)
+![elasticstack](https://img.shields.io/badge/-Elastic%20Stack-005571?logo=elasticstack&logoColor=white&style=flat-square)
+![elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=flat-square)
+![logstash](https://img.shields.io/badge/-Logstash-005571?logo=logstash&logoColor=white&style=flat-square)
+![kibana](https://img.shields.io/badge/-Kibana-005571?logo=kibana&logoColor=white&style=flat-square)
 ![influxdb](https://img.shields.io/badge/-InfluxDB-22ADF6?logo=influxdb&logoColor=white&style=flat-square)
 ![kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=apachekafka&logoColor=white&style=flat-square)
 ![mongodb](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 ![postgres](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![neo4j](https://img.shields.io/badge/-Neo4j-4581C3?logo=neo4j&logoColor=white&style=flat-square)
+![firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat-square)
+![amazonrds](https://img.shields.io/badge/-Amazon%20RDS-527FFF?logo=amazonrds&logoColor=white&style=flat-square)
+![vultr](https://img.shields.io/badge/-Vultr-007BFC?logo=vultr&logoColor=white&style=flat-square)
 ![redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
 ![mqtt](https://img.shields.io/badge/-MQTT-660066?logo=mqtt&logoColor=white&style=flat-square)
 ![emqx](https://img.shields.io/badge/-EMQX-00B173?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIwIiBoZWlnaHQ9IjMyMCIgdmlld0JveD0iMCAwIDMyMCAzMjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMjE0LjggMTA3LjA4N0gxMTIuNDk2VjEwNy4xMDhDMTEyLjM1NCAxMDcuMTAyIDExMi4yMTQgMTA3LjA4NyAxMTIuMDcxIDEwNy4wODdDMTA2Ljc2IDEwNy4wODcgMTAyLjQ1NSAxMTEuMzggMTAyLjQ1NSAxMTYuNjc2QzEwMi40NTUgMTIxLjk3MSAxMDYuNzYgMTI2LjI2NCAxMTIuMDcxIDEyNi4yNjRDMTEyLjIxNCAxMjYuMjY0IDExMi4zNTQgMTI2LjI0OSAxMTIuNDk2IDEyNi4yNDJWMTI2LjI2NEgyMTQuOEMyMjAuMTEgMTI2LjI2NCAyMjQuNDE1IDEyMS45NzEgMjI0LjQxNSAxMTYuNjc2QzIyNC40MTUgMTExLjM4IDIyMC4xMSAxMDcuMDg3IDIxNC44IDEwNy4wODdaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTIxNC44IDE5OC40MjdIMTEyLjQ5NlYxOTguNDQ3QzExMi4zNTQgMTk4LjQ0MiAxMTIuMjE0IDE5OC40MjcgMTEyLjA3MSAxOTguNDI3QzEwNi43NiAxOTguNDI3IDEwMi40NTUgMjAyLjcyIDEwMi40NTUgMjA4LjAxNUMxMDIuNDU1IDIxMy4zMSAxMDYuNzYgMjE3LjYwMyAxMTIuMDcxIDIxNy42MDNDMTEyLjIxNCAyMTcuNjAzIDExMi4zNTQgMjE3LjU4OSAxMTIuNDk2IDIxNy41ODJWMjE3LjYwM0gyMTQuOEMyMjAuMTEgMjE3LjYwMyAyMjQuNDE1IDIxMy4zMSAyMjQuNDE1IDIwOC4wMTVDMjI0LjQxNSAyMDIuNzIgMjIwLjExIDE5OC40MjcgMjE0LjggMTk4LjQyN1oiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTg3LjkyNCAxNjIuMzQ1QzE4Ny45MjQgMTU3LjM0NSAxODQuMDg0IDE1My4yNDQgMTc5LjE4NSAxNTIuODAxVjE1Mi43NTdIOTEuNDY1OFYxNTIuNzc4QzkxLjMyMzUgMTUyLjc3MiA5MS4xODQxIDE1Mi43NTcgOTEuMDQwNCAxNTIuNzU3Qzg1LjcyOTcgMTUyLjc1NyA4MS40MjQ4IDE1Ny4wNDkgODEuNDI0OCAxNjIuMzQ1QzgxLjQyNDggMTY3LjY0MSA4NS43Mjk3IDE3MS45MzQgOTEuMDQwNCAxNzEuOTM0QzkxLjE4NDEgMTcxLjkzNCA5MS4zMjM1IDE3MS45MTggOTEuNDY1OCAxNzEuOTEyVjE3MS45MzRIMTc5LjE4NVYxNzEuODg5QzE4NC4wODQgMTcxLjQ0NyAxODcuOTI0IDE2Ny4zNDUgMTg3LjkyNCAxNjIuMzQ1WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTI4MCA5MS4yNUwxNjAgMjJMNDAgOTEuMjVWMjI5Ljc1TDE2MCAyOTlMMjgwIDIyOS43NVY5MS4yNVpNMTYwIDQyLjcxMTVMMjYyLjA0OSAxMDEuNjA2VjIxOS4zODFMMTYwIDI3OC4yNzZMNTcuOTM4NyAyMTkuMzgxVjEwMS42MDZMMTYwIDQyLjcxMTVaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&style=flat-square)
 ![swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=white&style=flat-square)
 ![githubactions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square)
-
+![jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square)
 
 #### Tools:
-![photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=flat-square)
-![illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=flat-square)
-![xd](https://img.shields.io/badge/-XD-FF61F6?logo=adobexd&logoColor=white&style=flat-square)
-![premierepro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?logo=adobepremierepro&logoColor=white&style=flat-square)
-![aftereffects](https://img.shields.io/badge/-After%20Effects-9999FF?logo=adobeaftereffects&logoColor=white&style=flat-square)
+![photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=flat-square)
+![illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=flat-square)
+![xd](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobexd&logoColor=white&style=flat-square)
+![premierepro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-9999FF?logo=adobepremierepro&logoColor=white&style=flat-square)
+![aftereffects](https://img.shields.io/badge/-Adobe%20After%20Effects-9999FF?logo=adobeaftereffects&logoColor=white&style=flat-square)
 ![figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
 ![autocad](https://img.shields.io/badge/-AutoCAD-E51050?logo=autocad&logoColor=white&style=flat-square)
 ![autodesk](https://img.shields.io/badge/-Fusion%20360-FF6902?logo=autodesk&logoColor=white&style=flat-square)
@@ -57,7 +66,8 @@ As CEO of Alpaon LLC, I spearhead initiatives in industrial IoT, driving innovat
 ![jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat-square)
 ![termius](https://img.shields.io/badge/-Termius-000000?logo=termius&logoColor=white&style=flat-square)
 ![github](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
-
+![visualstudiocode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
+![xcode](https://img.shields.io/badge/-Xcode-147EFB?logo=xcode&logoColor=white&style=flat-square)
 
 ### 🌐 Social Links:
 - [LinkedIn](https://www.linkedin.com/in/seongyun-ku-5bbaab140)
