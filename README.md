@@ -74,6 +74,7 @@ As CEO of Alpaon LLC, I spearhead initiatives in industrial IoT, driving innovat
 [![googlescholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?logo=googlescholar&logoColor=white&style=flat-square)](https://scholar.google.com/citations?hl=en&user=Ckdp368AAAAJ)
 
 ### 💼 Experience:
+- **Chief Executive Officer** at [Alpaon America LLC](https://alpaon.com/) (Jun 2024 - Present)
 - **Business Mangement Advisor** at [Caravan Research](https://caravan.us.org/) (Mar 2023 - Present)
 - **Chief Executive Officer** at [Alpaon LLC](https://alpaon.com/) (Aug 2021 - Present)
 - **Chief Operating Officer** at [PacketStream LLC](https://packet.stream) (Apr 2021 - Present)
